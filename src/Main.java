@@ -8,8 +8,8 @@ public class Main {
         System.out.printf(" рублей В долларах это -  %.2f",dollars);
         System.out.printf(" долларов");*/
         System.out.printf("\nВ вашем кошельке " + rubles + " рублей." + " В долларах это - %.2f",dollars);
-        System.out.printf(" долларов");
-        System.out.print("привет");
+        System.out.print(" долларов");
+
 
     }
 }
