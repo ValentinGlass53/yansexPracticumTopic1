@@ -11,6 +11,7 @@ public class Main {
         */
         System.out.printf("\nВ вашем кошельке " + rubles + " рублей." + " В долларах это - %.2f",dollars);
         System.out.print(" долларов");
+        //
 
 
     }
